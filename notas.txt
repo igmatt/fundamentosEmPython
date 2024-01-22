@@ -1,0 +1,4 @@
+Rafael, 10, 8, 8, 5
+Felipe, 10, 8, 8, 5
+Juliana, 9, 8, 8, 6
+Karol, 9, 8, 8, 6
